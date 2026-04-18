@@ -45,4 +45,4 @@ The model identified that these 3 factors are the strongest predictors of churn:
 3. Run the notebook: `jupyter lab Customer_telecom.ipynb`
 
 ---
-**Developed by [Tariq Zeyad]** *Machine Learning | Data Analysis | Business Intelligence*
+**Developed by [Tariq Zeyad]** *Machine Learning | Data Analysis*
